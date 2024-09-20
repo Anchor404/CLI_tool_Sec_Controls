@@ -1,0 +1,82 @@
+2024-09-19 11:32:56,501 - INFO - Task Tracker started
+2024-09-19 11:32:56,502 - INFO - Encryption key loaded from encryption_key.key
+2024-09-19 11:32:56,568 - INFO - Tasks successfully loaded and decrypted
+2024-09-19 11:33:12,886 - INFO - Encryption key loaded from encryption_key.key
+2024-09-19 11:33:12,887 - INFO - Tasks successfully loaded and decrypted
+2024-09-19 11:33:12,889 - INFO - Backup created: tasks.json.bak
+2024-09-19 11:33:12,890 - INFO - Encryption key loaded from encryption_key.key
+2024-09-19 11:33:12,890 - INFO - Tasks successfully saved and encrypted
+2024-09-19 11:33:12,890 - INFO - Task 'log' added with ID 2
+2024-09-19 11:33:12,890 - INFO - Encryption key loaded from encryption_key.key
+2024-09-19 11:33:12,890 - INFO - Tasks successfully loaded and decrypted
+2024-09-19 11:33:19,274 - INFO - User exited the task tracker
+2024-09-19 11:34:32,137 - INFO - Task Tracker started
+2024-09-19 11:34:32,137 - INFO - Encryption key loaded from encryption_key.key
+2024-09-19 11:34:32,194 - INFO - Tasks successfully loaded and decrypted
+2024-09-19 11:34:34,105 - WARNING - Invalid choice: 7
+2024-09-19 11:34:34,107 - INFO - Encryption key loaded from encryption_key.key
+2024-09-19 11:34:34,107 - INFO - Tasks successfully loaded and decrypted
+2024-09-19 11:34:36,791 - WARNING - Invalid choice: 8
+2024-09-19 11:34:36,793 - INFO - Encryption key loaded from encryption_key.key
+2024-09-19 11:34:36,794 - INFO - Tasks successfully loaded and decrypted
+2024-09-19 11:34:37,241 - WARNING - Invalid choice: 9
+2024-09-19 11:34:37,241 - INFO - Encryption key loaded from encryption_key.key
+2024-09-19 11:34:37,243 - INFO - Tasks successfully loaded and decrypted
+2024-09-19 11:34:39,381 - WARNING - Invalid choice: 11
+2024-09-19 11:34:39,382 - INFO - Encryption key loaded from encryption_key.key
+2024-09-19 11:34:39,383 - INFO - Tasks successfully loaded and decrypted
+2024-09-19 11:34:42,181 - ERROR - Task title cannot be empty
+2024-09-19 11:34:42,182 - INFO - Encryption key loaded from encryption_key.key
+2024-09-19 11:34:42,185 - INFO - Tasks successfully loaded and decrypted
+2024-09-19 11:35:38,554 - INFO - User exited the task tracker
+2024-09-19 11:39:04,213 - INFO - Task Tracker started
+2024-09-19 11:41:48,094 - INFO - Task Tracker started
+2024-09-19 11:41:48,095 - INFO - Encryption key loaded from encryption_key.key
+2024-09-19 11:41:48,140 - WARNING - Hash file not found. Integrity check skipped.
+2024-09-19 11:41:54,545 - INFO - User exited the task tracker
+2024-09-19 11:43:21,625 - INFO - Task Tracker started
+2024-09-19 11:43:21,626 - INFO - Encryption key loaded from encryption_key.key
+2024-09-19 11:43:21,670 - WARNING - Hash file not found. Integrity check skipped.
+2024-09-19 11:50:39,798 - INFO - Task Tracker started
+2024-09-19 11:50:39,798 - INFO - Encryption key loaded from encryption_key.key
+2024-09-19 11:50:39,842 - WARNING - Hash file not found. Integrity check skipped.
+2024-09-19 11:50:51,915 - INFO - Encryption key loaded from encryption_key.key
+2024-09-19 11:50:51,917 - WARNING - Hash file not found. Integrity check skipped.
+2024-09-19 11:50:56,780 - INFO - Encryption key loaded from encryption_key.key
+2024-09-19 11:50:56,782 - WARNING - Hash file not found. Integrity check skipped.
+2024-09-19 11:50:56,784 - INFO - Backup created: backups/tasks_20240919_115056.json
+2024-09-19 11:50:56,784 - INFO - Encryption key loaded from encryption_key.key
+2024-09-19 11:50:56,785 - INFO - Tasks successfully saved, encrypted, and integrity hash updated.
+2024-09-19 11:50:56,785 - INFO - Task ID 2 status updated to 'done'
+2024-09-19 11:50:56,785 - INFO - Encryption key loaded from encryption_key.key
+2024-09-19 11:50:56,786 - INFO - Data integrity verified.
+2024-09-19 11:51:28,973 - INFO - Encryption key loaded from encryption_key.key
+2024-09-19 11:51:28,975 - INFO - Data integrity verified.
+2024-09-19 11:51:28,976 - INFO - Backup created: backups/tasks_20240919_115128.json
+2024-09-19 11:51:28,976 - INFO - Encryption key loaded from encryption_key.key
+2024-09-19 11:51:28,978 - INFO - Tasks successfully saved, encrypted, and integrity hash updated.
+2024-09-19 11:51:28,978 - INFO - Task 'Environment Iso And Access Control' added with ID 3
+2024-09-19 11:51:28,978 - INFO - Encryption key loaded from encryption_key.key
+2024-09-19 11:51:28,978 - INFO - Data integrity verified.
+2024-09-19 11:51:30,529 - INFO - User exited the task tracker
+2024-09-19 12:01:01,281 - INFO - Task Tracker started
+2024-09-19 12:01:01,285 - INFO - Data integrity verified.
+2024-09-19 12:01:21,001 - INFO - Data integrity verified.
+2024-09-19 12:01:27,351 - INFO - Data integrity verified.
+2024-09-19 12:01:27,354 - INFO - Backup created: backups/tasks_20240919_120127.json
+2024-09-19 12:01:27,355 - INFO - Tasks successfully saved, encrypted, and integrity hash updated.
+2024-09-19 12:01:27,355 - INFO - Task ID 3 status updated to 'done'
+2024-09-19 12:01:27,356 - INFO - Data integrity verified.
+2024-09-19 12:01:58,281 - INFO - User exited the task tracker
+2024-09-19 12:11:37,055 - INFO - Task Tracker started
+2024-09-19 12:11:37,061 - INFO - Data integrity verified.
+2024-09-19 12:11:39,103 - INFO - User exited the task tracker
+2024-09-19 12:32:42,232 - INFO - Task Tracker started
+2024-09-19 12:32:42,238 - INFO - Data integrity verified.
+2024-09-19 12:32:57,063 - INFO - Data integrity verified.
+2024-09-19 12:32:59,469 - INFO - Data integrity verified.
+2024-09-19 12:32:59,471 - INFO - Backup created: backups/tasks_20240919_123259.json
+2024-09-19 12:32:59,472 - INFO - Tasks successfully saved, encrypted, and integrity hash updated.
+2024-09-19 12:32:59,472 - INFO - Task ID 3 status updated to 'done'
+2024-09-19 12:32:59,473 - INFO - Data integrity verified.
+2024-09-19 12:33:01,429 - INFO - User exited the task tracker
